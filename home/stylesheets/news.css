@@ -1,0 +1,42 @@
+.page {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.page-info {
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.title {
+    width: 100%;
+    min-height: 5px;
+    background: #009f82;
+    line-height: 5px;
+    color: #FFF;
+    float: left;
+    font-weight: 300;
+    font-size: 20px;
+    padding-left: 20px;
+    border-radius: 7px;
+}
+
+.label {
+    width: 101%;
+    height: auto;
+    float: left;
+    margin-left: 10px;
+}
+
+.video-page {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin-right: 10px;
+    border: solid 1px #009f82;
+}

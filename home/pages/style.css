@@ -1,0 +1,173 @@
+.courses{
+    margin-left: 400px;
+    margin-right: auto;
+    margin-top: 50px;
+    align-items: center;
+}
+.pre-sea{
+    width: 950px;
+    height: 50px;
+    background-color: rgb(34, 160, 131);
+    border-radius: 5px;
+    margin: 20px;
+}
+#head{
+    color: white;
+    font-size: 25px;
+    font-family: Courier New;
+    padding: 15px;
+}
+b{
+    margin: 20px;
+}
+.content{
+    margin: 5px;
+    font-family: sans-serif;
+}
+#new1{
+    margin-top: 10px;
+    border-top: 2px dotted rgb(34, 160, 131);
+    width: 900px;
+    margin-left: 0px;
+    position: relative;
+}
+li{
+    font-size: 14px;
+    margin-top: 5px;
+}
+.pre-box{
+    width:1000px;
+	height:auto;
+	float:left;
+}
+.left-pre-box{
+    width:250px;
+	height:auto;
+	float:left;
+}
+.left-pre-box-text{
+    width:228px;
+	height:auto;
+	float:left;
+	padding:10px;
+	margin:10px ;
+    margin-top: -8px;
+	font-size:14px;
+	color:#fff;
+	background:#009f82;
+	text-align:left;
+}
+
+.right-box-pre{
+    width:700px;
+	height:auto;
+	float:left;
+	margin-left:20px;
+}
+
+.right-pre-box-text{
+    width:97%;
+	height:auto;
+	float:left;
+	margin:2px;
+	font-size:14px;
+	color:#000;
+	line-height:26px;
+	text-align:justify;
+	padding:10px;
+	border:1px solid #009f82;
+}
+.title{
+    width:228px;
+	height:auto;
+	float:left;
+	padding:10px;
+	margin-left:10px;
+	margin-bottom:10px;
+	font-size:14px;
+	color:#fff;
+	background:#009f82;
+	text-align:left;
+}
+.title2{
+    width:97%;
+	height:auto;
+	float:left;
+	padding:10px;
+	margin-left:0px ;
+	font-size:14px;
+	color:#fff;
+	background:#009f82;
+	text-align:left;
+}
+
+.pre-box-end{
+    height:50px;
+    width: 282px;
+	float:left;
+	padding:10px;
+    margin-left: 10px;
+    margin-top: 10px;
+	font-size:14px;
+	color:#fff;
+	background:#009f82;
+	text-align:center;
+}
+.bottom-box{
+    height:80px;
+    width: 280px;
+	float:left;
+	padding:10px;
+    margin-left: 10px;
+    margin-top: 1px;
+	font-size:14px;
+	border:1px solid #009f82;
+	text-align:left;
+}
+.bottom-box1{
+    float:left;
+	padding:5px;
+    margin: 1px;
+	font-size:14px;
+	text-align:left;
+}
+.hotel{
+    margin-left: 20px;
+    margin-right: 100px;
+    width: 900px;
+    height: 300px;
+    padding: 20px;
+    border: 1px solid grey;
+    border-style: dotted;
+    float: left;
+}
+.hotelimage{
+    float: right;
+    width: 200px;
+    height: 180px;
+}
+.hotel1{
+    margin-left: 20px;
+    margin-right: 100px;
+    width: 900px;
+    height: 330px;
+    padding: 20px;
+    border: 1px solid grey;
+    border-style: dotted;
+}
+.cardrow{
+    float: left;
+    margin-left: 20px;
+    width: 1000px;
+}
+.cardbox{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #e9e3e3;
+    width: 140px;
+    height: 100px;
+    float: left;
+    box-shadow: 1px 1px 5px 5px #adaaaa;
+}
+
+
